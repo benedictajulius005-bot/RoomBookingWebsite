@@ -300,7 +300,7 @@ if (!$conn) {
 <script src="js/stellar.js"></script>
 <script src="vendors/lightbox/simpleLightbox.min.js"></script>
 <!--gmaps Js-->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=(Google_API_Key)"></script>
 <script src="js/gmaps.min.js"></script>
 <!-- contact js -->
 <script src="js/jquery.form.js"></script>
